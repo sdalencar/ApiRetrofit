@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiRetrofit</string>
+    <string name="digite_o_cep">Digite o cep</string>
+    <string name="buscar">Buscar</string>
+</resources>
